@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Shreyas@dewangshree
-- 👀 I’m interested in ...Data Analysis, Data Science, and turning raw data into actionable insights.
-- 🌱 I’m currently learning ...Machine Learning, Power BI, and Python libraries like Pandas and NumPy.
-- 💞️ I’m looking to collaborate on ...data-driven projects, ML model building, or dashboard visualizations.
-- 📫 How to reach me ...shreyasdewangswami17@gmail.com linkedin profile:https://www.linkedin.com/in/shreyas-dewangswami-095b971b0/
-- 😄 Pronouns: ...him
-- ⚡ Fun fact: ...I love finding patterns in data as much as solving real-life puzzles!
+ Hi, I’m Shreyas Dewangshree
+I’m interested in Software Development, System Design, and building scalable applications that solve real-world problems.
+I’m currently learning Data Structures & Algorithms and advanced Python concepts to strengthen my problem-solving and coding skills.
+I’m looking to collaborate on software projects, open-source contributions, or innovative solutions where I can apply my skills in software engineering and design.
+How to reach me: shreyasdewangswami17@gmail.com| LinkedIn
+⚡ Fun fact: I enjoy optimizing code and solving algorithmic challenges as much as cracking logic puzzles!
 
 <!---
 dewangshree/dewangshree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
