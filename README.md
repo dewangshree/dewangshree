@@ -1,10 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Shreyas%20👋&fontSize=52&fontColor=fff&fontAlignY=38&desc=AI%20Backend%20Engineer%20·%20Multi-Agent%20Systems%20·%20LLM%20Integrations&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-# Hey, I'm Shreyas 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-powered+backend+systems+%F0%9F%A4%96;Multi-agent+workflow+automation+%F0%9F%94%81;FastAPI+%2B+LLMs+%2B+Real-time+data+%E2%9A%A1;Turning+ideas+into+deployed+products+%F0%9F%9A%80;Open+to+AI+%26+Backend+Internships+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-### AI Backend Engineer · Multi-Agent Systems · LLM Integrations
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+backend+systems;Multi-agent+workflow+automation;FastAPI+%2B+LLMs+%2B+Real-time+data;Turning+ideas+into+deployed+products)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=dewangshree&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/dewangshree?style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/dewangshree)
+[![GitHub stars](https://img.shields.io/github/stars/dewangshree?style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=TOTAL+STARS)](https://github.com/dewangshree)
 
 </div>
 
@@ -12,19 +16,18 @@
 
 ## 💫 About Me
 
-🔭 &nbsp; Currently building **AI-driven backend systems** and **multi-agent workflow automation**
-
-🤖 &nbsp; I enjoy making AI agents that **automate software development** end to end
-
-🌱 &nbsp; Deepening expertise in **advanced LLM integrations**, **system architecture**, and **efficient AI deployment**
-
-👯 &nbsp; Open to collaborating on **AI applications**, **developer tools**, and **backend engineering projects**
-
-🤝 &nbsp; Looking to connect around **scalable AI system design** and **advanced agent orchestration**
-
-💬 &nbsp; Ask me about **FastAPI**, **CrewAI**, **AI workflows**, **prompt engineering**, and **backend API development**
-
-📬 &nbsp; Reach me at **shreyasdewangswami17@gmail.com**
+```python
+class Shreyas:
+    name        = "Shreyas Dewangswami"
+    role        = "AI Backend Engineer"
+    location    = "India 🇮🇳"
+    languages   = ["Python", "C", "HTML", "CSS"]
+    focus       = ["Multi-Agent AI", "LLM Integrations", "Backend APIs"]
+    current     = "Building AI systems that actually ship 🚀"
+    open_to     = "AI & Backend Internship Opportunities"
+    ask_me      = ["FastAPI", "CrewAI", "AI Workflows", "Prompt Engineering"]
+    email       = "shreyasdewangswami17@gmail.com"
+```
 
 ---
 
@@ -42,9 +45,46 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dewangshree&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🔖 Smart Bookmark App | 🤖 EngineeringTeam Crew |
+|:---:|:---:|
+| Secure real-time bookmark manager with Google OAuth | Multi-agent AI software engineering workflow |
+| ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) | ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square) |
+| [🔗 Live Demo](https://smart-bookmark-k4p3xf6ts-shreyas-projects-ff372eaf.vercel.app) | [🔗 Live Demo](https://engineering-team.onrender.com) |
+
+| 📊 Monday BI Agent | 🔗 URL Shortener API |
+|:---:|:---:|
+| Conversational analytics on Monday.com data | AI-powered URL shortener with security filters |
+| ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite) |
+| [🔗 Live Demo](https://agentic-chatbot-4g8y.onrender.com) | [🔗 Live Demo](https://ai-url-shortner-ly68.onrender.com) |
+
+</div>
+
+---
+
 ## 💻 Tech Stack
 
 ### 🧠 AI & LLM
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask&theme=dark)](https://skillicons.dev)
+
+</div>
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
@@ -54,45 +94,66 @@
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 
 ### 🐍 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,c,html,css&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ### ⚡ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=fastapi,flask&theme=dark)](https://skillicons.dev)
+
+</div>
+
 ![Jinja](https://img.shields.io/badge/Jinja-white?style=for-the-badge&logo=jinja&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🖥️ Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### 🗄 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=postgres,sqlite,mysql,supabase&theme=dark)](https://skillicons.dev)
+
+</div>
+
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 
-### ☁ Cloud & Deployment
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+### ☁️ Cloud & Deployment
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=azure,vercel,netlify,render&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ### 🔧 DevOps & Tools
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker&theme=dark)](https://skillicons.dev)
+
+</div>
+
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![UV](https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge)
 
 ### 📊 Data & ML
+
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -105,31 +166,58 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dewangshree&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=dewangshree&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewangshree&theme=tokyonight&hide_border=true&layout=compact&hide=javascript,typescript,html,css&langs_count=6" height="170"/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dewangshree&theme=dark&hide_border=false)
+<br/><br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dewangshree&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=javascript,typescript,html,css&langs_count=6)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dewangshree&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Contribution Activity
 
-| Project | Description | Stack |
-|---|---|---|
-| 🔖 [Smart Bookmark App](https://smart-bookmark-k4p3xf6ts-shreyas-projects-ff372eaf.vercel.app) | Secure real-time bookmark manager with OAuth | Next.js · Supabase · RLS |
-| 🤖 [EngineeringTeam Crew](https://engineering-team.onrender.com) | Multi-agent AI software engineering workflow | CrewAI · FastAPI · Gradio |
-| 📊 [Monday BI Agent](https://agentic-chatbot-4g8y.onrender.com) | Conversational analytics on Monday.com data | Flask · Groq · GraphQL |
-| 🔗 [URL Shortener API](https://ai-url-shortner-ly68.onrender.com) | URL shortener with intelligent security filters | FastAPI · SQLite · OpenAI |
+<div align="center">
+
+[![Shreyas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dewangshree&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dewangshree/dewangshree/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dewangshree/dewangshree/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dewangshree/dewangshree/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-readme.vercel.app/api/quotes?theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+</div>
 
 ---
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=dewangshree&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dewangshree&icon=5&color=6)](https://visitcount.itsvg.in)
 
 **Building AI systems that actually ship** 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
