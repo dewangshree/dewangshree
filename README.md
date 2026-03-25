@@ -19,7 +19,7 @@
 ```python
 class Shreyas:
     name        = "Shreyas Dewangswami"
-    role        = "looking for a job softtware Engineer fresher"
+    role        = "AI Backend Engineer"
     location    = "India 🇮🇳"
     languages   = ["Python", "C", "HTML", "CSS"]
     focus       = ["Multi-Agent AI", "LLM Integrations", "Backend APIs"]
@@ -175,16 +175,6 @@ class Shreyas:
 <div align="center">
 
 [![Shreyas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dewangshree&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 💭 Dev Quote of the Day
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-readme.vercel.app/api/quotes?theme=dark)](https://github.com/PiyushSuthar/github-readme-quotes)
 
 </div>
 
