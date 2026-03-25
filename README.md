@@ -19,7 +19,7 @@
 ```python
 class Shreyas:
     name        = "Shreyas Dewangswami"
-    role        = "Looking for Software Engineer Fresher role"
+    role        = "AI Backend Engineer"
     location    = "India 🇮🇳"
     languages   = ["Python", "C", "HTML", "CSS"]
     focus       = ["Multi-Agent AI", "LLM Integrations", "Backend APIs"]
@@ -78,12 +78,6 @@ class Shreyas:
 ## 💻 Tech Stack
 
 ### 🧠 AI & LLM
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,flask&theme=dark)](https://skillicons.dev)
-
-</div>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
@@ -166,8 +160,6 @@ class Shreyas:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dewangshree&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&show_icons=true&rank_icon=github" height="170"/>
-&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewangshree&theme=tokyonight&hide_border=true&layout=compact&hide=javascript,typescript,html,css&langs_count=6" height="170"/>
 
 <br/><br/>
@@ -188,20 +180,6 @@ class Shreyas:
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dewangshree/dewangshree/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dewangshree/dewangshree/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dewangshree/dewangshree/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
 ## 💭 Dev Quote of the Day
 
 <div align="center">
@@ -213,8 +191,6 @@ class Shreyas:
 ---
 
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=dewangshree&icon=5&color=6)](https://visitcount.itsvg.in)
 
 **Building AI systems that actually ship** 🚀
 
