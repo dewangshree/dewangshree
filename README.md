@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Shreyas%20👋&fontSize=52&fontColor=fff&fontAlignY=38&desc=Software%20Backend%20Engineer%20·%20Multi-Agent%20Systems%20·%20LLM%20Integrations&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Shreyas%20👋&fontSize=52&fontColor=fff&fontAlignY=38&desc=AI%20Backend%20Engineer%20·%20Multi-Agent%20Systems%20·%20LLM%20Integrations&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 ```python
 class Shreyas:
     name        = "Shreyas Dewangswami"
-    role        = "Software  Engineer fresher"
+    role        = "AI Backend Engineer"
     location    = "India 🇮🇳"
     languages   = ["Python", "C", "HTML", "CSS"]
     focus       = ["Multi-Agent AI", "LLM Integrations", "Backend APIs"]
@@ -162,9 +162,6 @@ class Shreyas:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewangshree&theme=tokyonight&hide_border=true&layout=compact&hide=javascript,typescript,html,css&langs_count=6" height="170"/>
 
-<br/><br/>
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dewangshree&theme=tokyonight&hide_border=true)
 
 </div>
 
