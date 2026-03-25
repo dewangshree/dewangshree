@@ -51,7 +51,6 @@
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-6B48FF?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
 
 ### 🐍 Languages
@@ -59,17 +58,17 @@
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### ⚡ Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Jinja](https://img.shields.io/badge/Jinja-white?style=for-the-badge&logo=jinja&logoColor=black)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### 🖥️ Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🗄 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -110,7 +109,7 @@
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dewangshree&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dewangshree&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dewangshree&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&hide=javascript,typescript,html,css&langs_count=6)
 
 </div>
 
@@ -120,7 +119,6 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🚓 [Patrol Eye](https://github.com/dewangshree) | AI surveillance & patrol intelligence dashboard | YOLO · FastAPI · RAG · FAISS |
 | 🔖 [Smart Bookmark App](https://smart-bookmark-k4p3xf6ts-shreyas-projects-ff372eaf.vercel.app) | Secure real-time bookmark manager with OAuth | Next.js · Supabase · RLS |
 | 🤖 [EngineeringTeam Crew](https://engineering-team.onrender.com) | Multi-agent AI software engineering workflow | CrewAI · FastAPI · Gradio |
 | 📊 [Monday BI Agent](https://agentic-chatbot-4g8y.onrender.com) | Conversational analytics on Monday.com data | Flask · Groq · GraphQL |
