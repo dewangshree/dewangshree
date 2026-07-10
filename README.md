@@ -19,7 +19,7 @@
 ```python
 class Shreyas:
     name        = "Shreyas Dewangswami"
-    role        = "software Engineer Fresher"
+    role        = "software Engineer"
     location    = "India 🇮🇳"
     languages   = ["Python", "C", "HTML", "CSS"]
     focus       = ["Multi-Agent AI", "LLM Integrations", "Backend APIs"]
