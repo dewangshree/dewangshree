@@ -57,7 +57,7 @@ class Shreyas:
 |:---:|:---:|
 | Secure real-time bookmark manager with Google OAuth | Multi-agent AI software engineering workflow |
 | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) | ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square) |
-| [🔗 Live Demo](https://smart-bookmark-k4p3xf6ts-shreyas-projects-ff372eaf.vercel.app) | [🔗 Live Demo](https://engineering-team.onrender.com) |
+| [🔗 Live Demo]([https://smart-bookmark-k4p3xf6ts-shreyas-projects-ff372eaf.vercel.app](https://github.com/dewangshree/Smart_Bookmark_App.git)) | [🔗 Live Demo](https://engineering-team.onrender.com) |
 
 | 🗂️ TaskFlow Employee Management | 🔗 URL Shortener API |
 |:---:|:---:|
