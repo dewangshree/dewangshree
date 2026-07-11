@@ -63,7 +63,7 @@ class Shreyas:
 |:---:|:---:|
 | Role-based employee & leave management system | AI-powered URL shortener with security filters |
 | ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite) |
-| [🔗 Live Demo](https://taskflow-shreyas-svd2026-c9bbcsezbmbjbvbu.centralindia-01.azurewebsites.net/Account/Login)) | [🔗 Live Demo](https://ai-url-shortner-ly68.onrender.com) |
+| [🔗 Live Demo](https://taskflow-shreyas-svd2026-c9bbcsezbmbjbvbu.centralindia-01.azurewebsites.net/Account/Login) | [🔗 Live Demo](https://ai-url-shortner-ly68.onrender.com) |
 
 </div>
 
