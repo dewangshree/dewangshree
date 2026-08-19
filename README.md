@@ -21,7 +21,7 @@ class Shreyas:
     name        = "Shreyas Dewangswami"
     role        = "software Engineer"
     location    = "India 🇮🇳"
-    languages   = ["Python", "C", "HTML", "CSS"]
+    languages   = ["Python","HTML", "CSS","Javascript","FatsAPI","C#"]
     focus       = ["Multi-Agent AI", "LLM Integrations", "Backend APIs"]
     current     = "Building AI systems that actually ship 🚀"
     open_to     = "AI & Backend Internship Opportunities"
