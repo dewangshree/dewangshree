@@ -18,14 +18,16 @@
 
 ```python
 class Shreyas:
+   class Shreyas:
     name        = "Shreyas Dewangswami"
-    role        = "software Engineer"
+    role        = "Software Engineer"
     location    = "India 🇮🇳"
-    languages   = ["Python","HTML", "CSS","Javascript","FatsAPI","C#"]
-    focus       = ["Multi-Agent AI", "LLM Integrations", "Backend APIs"]
+    languages   = ["Python", "JavaScript", "TypeScript", "C#"]
+    tech        = ["React", ".NET", "FastAPI", "PostgreSQL", "REST APIs"]
+    focus       = ["AI Agents", "LLM Integrations", "Backend APIs"]
     current     = "Building AI systems that actually ship 🚀"
-    open_to     = "AI & Backend Internship Opportunities"
-    ask_me      = ["FastAPI", "CrewAI", "AI Workflows", "Prompt Engineering"]
+    open_to     = "AI & Backend Opportunities"
+    ask_me      = ["FastAPI", "AI Agents", "LLM Workflows", "ASP.NET Core"]
     email       = "shreyasdewangswami17@gmail.com"
 ```
 
