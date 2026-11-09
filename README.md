@@ -176,14 +176,11 @@ class Shreyas:
 
 ## 📊 GitHub Stats
 
+> 💼 Most of my day-to-day work (PRs, reviews, CI/CD) happens in private repos at B2A Technologies.
+
 <div align="center">
 
-[![PRs Raised](https://img.shields.io/github/issues-search?query=author%3Adewangshree%20is%3Apr&label=PRs%20RAISED&style=for-the-badge&color=00D9FF&labelColor=1a1a2e)](https://github.com/search?q=author%3Adewangshree+is%3Apr&type=pullrequests)
-[![PRs Merged](https://img.shields.io/github/issues-search?query=author%3Adewangshree%20is%3Apr%20is%3Amerged&label=PRs%20MERGED&style=for-the-badge&color=00D9FF&labelColor=1a1a2e)](https://github.com/search?q=author%3Adewangshree+is%3Apr+is%3Amerged&type=pullrequests)
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewangshree&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170"/>
+<img src="https://streak-stats.demolab.com?user=dewangshree&theme=tokyonight&hide_border=true" height="190"/>
 
 </div>
 
