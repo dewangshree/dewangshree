@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Shreyas%20👋&fontSize=52&fontColor=fff&fontAlignY=38&desc=Software%20Backend%20Engineer%20·%20Multi-Agent%20Systems%20·%20LLM%20Integrations&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Shreyas%20👋&fontSize=52&fontColor=fff&fontAlignY=38&desc=Full-Stack%20Engineer%20·%20.NET%20%2B%20React%20·%20AI%20Agents&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=Building+AI-powered+backend+systems+%F0%9F%A4%96;Multi-agent+workflow+automation+%F0%9F%94%81;FastAPI+%2B+LLMs+%2B+Real-time+data+%E2%9A%A1;Turning+ideas+into+deployed+products+%F0%9F%9A%80;Open+to+AI+%26+Backend+Internships+%F0%9F%8C%9F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=700&lines=SDE+Intern+%40+B2A+Technologies+%F0%9F%92%BC;Shipping+.NET+%2B+React+features+daily+%E2%9A%A1;Building+AI+agents+with+LangGraph+%26+RAG+%F0%9F%A4%96;Docker+%2B+Jenkins+%2B+CI%2FCD+%F0%9F%94%81;Open+to+Full-Stack+%26+AI+roles+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br/>
 
@@ -18,16 +18,15 @@
 
 ```python
 class Shreyas:
-   class Shreyas:
     name        = "Shreyas Dewangswami"
-    role        = "Software Engineer"
+    role        = "Software Development Engineer Intern @ B2A Technologies"
     location    = "India 🇮🇳"
-    languages   = ["Python", "JavaScript", "TypeScript", "C#"]
-    tech        = ["React", ".NET", "FastAPI", "PostgreSQL", "REST APIs"]
-    focus       = ["AI Agents", "LLM Integrations", "Backend APIs"]
-    current     = "Building AI systems that actually ship 🚀"
-    open_to     = "AI & Backend Opportunities"
-    ask_me      = ["FastAPI", "AI Agents", "LLM Workflows", "ASP.NET Core"]
+    languages   = ["C#", "Python", "TypeScript", "JavaScript", "SQL"]
+    daily_stack = [".NET", "React", "PostgreSQL", "EF Core", "Dapper", "Docker", "Jenkins"]
+    side_quests = ["AI Agents", "LangGraph", "RAG", "MCP Servers"]
+    current     = "Building full-stack products & AI systems that actually ship 🚀"
+    open_to     = "Full-Stack, .NET & AI Engineering roles (remote / onsite)"
+    ask_me      = ["ASP.NET Core", "React", "CI/CD", "AI Agents"]
     email       = "shreyasdewangswami17@gmail.com"
 ```
 
@@ -37,17 +36,13 @@ class Shreyas:
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=black)](https://shreyasportfolio.hopto.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Shreyas-Dewangswami)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/dewangshree)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sh_r_ey_a_s)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Powerful-Depth6571)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Shreyasdewang)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasdewangswami17@gmail.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/dewangshree)
 
 </div>
-
----
-
-
 
 ---
 
@@ -55,11 +50,17 @@ class Shreyas:
 
 <div align="center">
 
+| 🔍 Quick-Commerce RCA Agent | 🌐 Personal Portfolio Platform |
+|:---:|:---:|
+| Multi-turn AI agent investigating delivery SLA breaches · RAG + custom MCP server · 310 tests | React 19 + ASP.NET Core (Clean Architecture) with Jenkins CI/CD & Docker deploys |
+| ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+| [🔗 GitHub](RCA_REPO_LINK) | [🔗 Live Site](https://shreyasportfolio.hopto.org) |
+
 | 🔖 Smart Bookmark App | 🤖 EngineeringTeam Crew |
 |:---:|:---:|
-| Secure real-time bookmark manager with Google OAuth | Multi-agent AI software engineering workflow |
+| Secure real-time bookmark manager with Google OAuth & Postgres RLS | Multi-agent AI software engineering workflow |
 | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) | ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square) |
-| [🔗 Live Demo](https://github.com/dewangshree/Smart_Bookmark_App.git) | [🔗 Live Demo](https://engineering-team.onrender.com) |
+| [🔗 GitHub](https://github.com/dewangshree/Smart_Bookmark_App) | [🔗 Live Demo](https://engineering-team.onrender.com) |
 
 | 🗂️ TaskFlow Employee Management | 🔗 URL Shortener API |
 |:---:|:---:|
@@ -73,22 +74,11 @@ class Shreyas:
 
 ## 💻 Tech Stack
 
-### 🧠 AI & LLM
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-6B48FF?style=for-the-badge)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
 ### 🐍 Languages
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cs,html,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,python,ts,js,c&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -96,25 +86,24 @@ class Shreyas:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,flask,dotnet&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,fastapi,flask&theme=dark)](https://skillicons.dev)
 
 </div>
 
-![Jinja](https://img.shields.io/badge/Jinja-white?style=for-the-badge&logo=jinja&logoColor=black)
-![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🖥️ Frontend
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,typescript,tailwind,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -126,30 +115,47 @@ class Shreyas:
 
 </div>
 
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+
+### 🔧 DevOps, Testing & Monitoring
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,github&theme=dark)](https://skillicons.dev)
+
+</div>
+
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![UV](https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge)
 
 ### ☁️ Cloud & Deployment
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=azure,vercel,netlify,render&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,vercel,netlify&theme=dark)](https://skillicons.dev)
 
 </div>
 
-### 🔧 DevOps & Tools
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-<div align="center">
+### 🧠 AI & LLM
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,docker,jenkins&theme=dark)](https://skillicons.dev)
-
-</div>
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![UV](https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-6B48FF?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
 
 ### 🔁 Automation & Integrations
 
@@ -163,9 +169,8 @@ class Shreyas:
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
-![YOLO](https://img.shields.io/badge/YOLO-FF6B35?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF6B35?style=for-the-badge)
 
 ---
 
@@ -173,8 +178,12 @@ class Shreyas:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewangshree&theme=tokyonight&hide_border=true&layout=compact&hide=javascript,typescript,html,css&langs_count=6" height="170"/>
+[![PRs Raised](https://img.shields.io/github/issues-search?query=author%3Adewangshree%20is%3Apr&label=PRs%20RAISED&style=for-the-badge&color=00D9FF&labelColor=1a1a2e)](https://github.com/search?q=author%3Adewangshree+is%3Apr&type=pullrequests)
+[![PRs Merged](https://img.shields.io/github/issues-search?query=author%3Adewangshree%20is%3Apr%20is%3Amerged&label=PRs%20MERGED&style=for-the-badge&color=00D9FF&labelColor=1a1a2e)](https://github.com/search?q=author%3Adewangshree+is%3Apr+is%3Amerged&type=pullrequests)
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewangshree&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="170"/>
 
 </div>
 
@@ -192,7 +201,7 @@ class Shreyas:
 
 <div align="center">
 
-**Building AI systems that actually ship** 🚀
+**Building full-stack products & AI systems that actually ship** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%"/>
 
