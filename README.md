@@ -174,16 +174,6 @@ class Shreyas:
 
 ---
 
-## 📊 GitHub Stats
-
-> 💼 Most of my day-to-day work (PRs, reviews, CI/CD) happens in private repos at B2A Technologies.
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=dewangshree&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata&date_format=j%20M%5B%20Y%5D" height="190"/>
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
