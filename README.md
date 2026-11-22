@@ -7,8 +7,8 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dewangshree&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/dewangshree?style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/dewangshree)
-[![GitHub stars](https://img.shields.io/github/stars/dewangshree?style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=TOTAL+STARS)](https://github.com/dewangshree)
+[![GitHub followers](https://img.shields.io/github/followers/dewangshree?style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=FOLLOWERS)](https://github.com/dewangshree?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/dewangshree?style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=TOTAL+STARS)](https://github.com/dewangshree?tab=repositories)
 
 </div>
 
@@ -20,12 +20,13 @@
 class Shreyas:
     name        = "Shreyas Dewangswami"
     role        = "Software Development Engineer Intern @ B2A Technologies"
-    location    = "India 🇮🇳"
+    education   = "B.E. Information Science, M. S. Ramaiah Institute of Technology (2026)"
+    location    = "Bengaluru, India 🇮🇳"
     languages   = ["C#", "Python", "TypeScript", "JavaScript", "SQL"]
     daily_stack = [".NET", "React", "PostgreSQL", "EF Core", "Dapper", "Docker", "Jenkins"]
     side_quests = ["AI Agents", "LangGraph", "RAG", "MCP Servers"]
     current     = "Building full-stack products & AI systems that actually ship 🚀"
-    open_to     = "Full-Stack, .NET & AI Engineering roles (remote / onsite)"
+    open_to     = "Full-Stack, .NET, Data & AI Engineering roles (remote / onsite)"
     ask_me      = ["ASP.NET Core", "React", "CI/CD", "AI Agents"]
     email       = "shreyasdewangswami17@gmail.com"
 ```
@@ -46,27 +47,52 @@ class Shreyas:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dewangshree&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=1a1a2e&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewangshree&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=dewangshree&theme=tokyonight&hide_border=true&background=1a1a2e&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=c9d1d9" alt="GitHub Streak"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dewangshree&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
 
 | 🔍 Quick-Commerce RCA Agent | 🌐 Personal Portfolio Platform |
 |:---:|:---:|
-| Multi-turn AI agent investigating delivery SLA breaches · RAG + custom MCP server · 310 tests | React 19 + ASP.NET Core (Clean Architecture) with Jenkins CI/CD & Docker deploys |
+| AI agent that investigates delivery SLA breaches across 233 stores · LangGraph + hybrid RAG + MCP server · 310 tests | React 19 + ASP.NET Core (Clean Architecture) with Jenkins CI/CD, SonarQube & Docker deploys |
 | ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
-| [🔗 GitHub](RCA_REPO_LINK) | [🔗 Live Site](https://shreyasportfolio.hopto.org) |
+| [🔗 GitHub](https://github.com/dewangshree/quick-commerce-rca-agent) · [🚀 Live Demo](https://qc-ops-intelligence-6bok.onrender.com) | [🔗 Live Site](https://shreyasportfolio.hopto.org) |
 
-| 🔖 Smart Bookmark App | 🤖 EngineeringTeam Crew |
+| 💳 SubsPro: Subscription Management | 🤖 EngineeringTeam Crew |
 |:---:|:---:|
-| Secure real-time bookmark manager with Google OAuth & Postgres RLS | Multi-agent AI software engineering workflow |
-| ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) | ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square) |
-| [🔗 GitHub](https://github.com/dewangshree/Smart_Bookmark_App) | [🔗 Live Demo](https://engineering-team.onrender.com) |
+| Full-stack subscription platform with customer portal, admin analytics, JWT auth & PDF invoices | Multi-agent AI crew that designs, codes & tests software modules from a single prompt |
+| ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square) |
+| [🔗 GitHub](https://github.com/dewangshree/Lumen_Quest) · [🚀 Live Demo](https://dewangshree.github.io/Lumen_Quest/) | [🚀 Live Demo](https://engineering-team.onrender.com) |
 
-| 🗂️ TaskFlow Employee Management | 🔗 URL Shortener API |
+| 🗂️ TaskFlow Employee Management | 🔖 Smart Bookmark App |
 |:---:|:---:|
-| Role-based employee & leave management system | AI-powered URL shortener with security filters |
-| ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite) |
-| [🔗 Live Demo](https://taskflow-shreyas-svd2026-c9bbcsezbmbjbvbu.centralindia-01.azurewebsites.net/Account/Login) | [🔗 Live Demo](https://ai-url-shortner-ly68.onrender.com) |
+| Role-based employee, task & leave management on Azure with GitHub Actions CI/CD | Secure real-time bookmark manager with Google OAuth & Postgres RLS |
+| ![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel) |
+| [🚀 Live Demo](https://taskflow-shreyas-svd2026-c9bbcsezbmbjbvbu.centralindia-01.azurewebsites.net/Account/Login) | [🔗 GitHub](https://github.com/dewangshree/Smart_Bookmark_App) |
+
+| 🔗 URL Shortener API |
+|:---:|
+| AI-powered URL shortener with security filters |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai) ![SQLite](https://img.shields.io/badge/SQLite-07405e?style=flat-square&logo=sqlite) |
+| [🚀 Live Demo](https://ai-url-shortner-ly68.onrender.com) |
 
 </div>
 
@@ -86,7 +112,7 @@ class Shreyas:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,fastapi,flask&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,fastapi,flask,nodejs,express&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -95,6 +121,7 @@ class Shreyas:
 ![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Identity](https://img.shields.io/badge/ASP.NET%20Identity-512BD4?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -103,7 +130,7 @@ class Shreyas:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,vite&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -123,7 +150,7 @@ class Shreyas:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,jenkins,githubactions,git,github,nginx&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -132,7 +159,6 @@ class Shreyas:
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![UV](https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge)
 
 ### ☁️ Cloud & Deployment
@@ -144,6 +170,7 @@ class Shreyas:
 </div>
 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
 ### 🧠 AI & LLM
 
@@ -151,6 +178,7 @@ class Shreyas:
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
@@ -171,8 +199,6 @@ class Shreyas:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-FF6B35?style=for-the-badge)
-
----
 
 ---
 
