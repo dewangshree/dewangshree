@@ -51,7 +51,7 @@ class Shreyas:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dewangshree&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=1a1a2e&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dewangshree&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,contribs&rank_icon=github&bg_color=1a1a2e&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" alt="GitHub Stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewangshree&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages"/>
 
 <br/>
